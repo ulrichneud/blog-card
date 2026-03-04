@@ -59,10 +59,6 @@ body {
   margin-bottom: 12px;
 }
 
-.content h2:hover {
-    color: #f4d04e
-}
-
 .content p {
   font-size: 16px;
   font-weight: 500;
